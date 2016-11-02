@@ -1,0 +1,10 @@
+{
+    "name": "45degree",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "45degree.xml",
+    "author": "682919",
+    "minimum_firmware_version": 42
+}
